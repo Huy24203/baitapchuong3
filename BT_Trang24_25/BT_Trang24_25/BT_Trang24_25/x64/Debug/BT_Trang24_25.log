@@ -1,0 +1,7 @@
+﻿  BT_Trang24_25.cpp
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong3\BT_Trang24_25\BT_Trang24_25\BT_Trang24_25.cpp(19,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong3\BT_Trang24_25\BT_Trang24_25\BT_Trang24_25.cpp(32,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong3\BT_Trang24_25\BT_Trang24_25\BT_Trang24_25.cpp(77,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong3\BT_Trang24_25\BT_Trang24_25\BT_Trang24_25.cpp(78,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong3\BT_Trang24_25\BT_Trang24_25\BT_Trang24_25.cpp(88,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BT_Trang24_25.vcxproj -> D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong3\BT_Trang24_25\BT_Trang24_25\x64\Debug\BT_Trang24_25.exe
